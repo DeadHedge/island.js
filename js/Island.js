@@ -39,7 +39,7 @@ var Island = {
         lakesThreshold: 0.005, // lake elevation will increase by this value (* the river size) when a new river end inside
         nbRivers: (10000 / 200),
         maxRiversSize: 4,
-        shading: 0.35,
+        //shading: 0.35,
         shadeOcean: true
     },
     debug: false, // true if "debug" mode is activated
