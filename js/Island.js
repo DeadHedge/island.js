@@ -26,8 +26,8 @@ var DISPLAY_COLORS = {
 
 var Island = {
     config: {
-        width: 500,
-        height: 500,
+        width: 1000,
+        height: 1000,
         perlinWidth: 256,
         perlinHeight: 256,
         allowDebug: false, // if set to true, you can clic on the map to enter "debug" mode. Warning : debug mode is slow to initialize, set to false for faster rendering.
