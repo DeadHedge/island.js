@@ -40,7 +40,7 @@ var Island = {
         nbRivers: (10000 / 200),
         maxRiversSize: 4,
         shading: 0.0,
-        shadeOcean: true
+        shadeOcean: false
     },
     debug: false, // true if "debug" mode is activated
     voronoi: new Voronoi(),
